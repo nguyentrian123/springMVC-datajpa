@@ -21,7 +21,7 @@
 	</properties>
 
 	<dependencies>
-		<!-- Spring ab-->
+		<!-- Spring abc-->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-core</artifactId>
